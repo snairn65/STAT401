@@ -14,7 +14,7 @@ relation <- lm(y~x)
 # Print out data
 print(relation)
 
-#y/weight= -38.4551 + (0.6746 x/time)
+#y/weight= -38.4551 + (0.6746 x/height)
 
 
 # for a height of 170, the predicted weight is 76.2269
